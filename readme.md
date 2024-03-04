@@ -19,3 +19,10 @@ You could then convert the esd to wim if you're so inclined.
 ```
 dism.exe /Export-Image /SourceImageFile:C:\Temp\Windows10_22H2\sources\install.esd /SourceIndex:3 /DestinationImageFile:C:\Temp\Windows10_22H2\sources\install.wim /Compress:max /CheckIntegrity
 ```
+
+
+----
+
+If updating from Windows Update Fails try the followng article:
+
+https://learn.microsoft.com/en-us/microsoftteams/troubleshoot/teams-rooms-and-devices/teams-rooms-device-windows-update-issues
