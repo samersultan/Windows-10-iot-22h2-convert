@@ -26,3 +26,10 @@ dism.exe /Export-Image /SourceImageFile:C:\Temp\Windows10_22H2\sources\install.e
 If updating from Windows Update Fails try the followng article:
 
 https://learn.microsoft.com/en-us/microsoftteams/troubleshoot/teams-rooms-and-devices/teams-rooms-device-windows-update-issues
+
+
+---
+
+Alt try windows 11 update:
+
+https://m365community.blogspot.com/2023/05/windows-11-support-for-teams-rooms-on.html
